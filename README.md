@@ -1,2 +1,2 @@
-# Collision-Detector
-This is an actual algorithm for a collision detector using math operator and coordinates system
+# p5.play-boilerplate
+Boiler plate for p5.play
